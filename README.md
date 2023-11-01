@@ -8,7 +8,7 @@ This Streamlit application can predict 88 different types of plant diseases from
 
 ## Demo
 
-You can also access a live demo of the Plant Disease Classification App by clicking [here](https://med-chatbot.streamlit.app/).
+You can also access a live demo of the Plant Disease Classification App by clicking [here](https://plantdisease-classification.streamlit.app/).
 
 
 
@@ -46,7 +46,7 @@ streamlit run app.py
 - The app will display the uploaded image and predict the plant disease.
 - Access the chatbot application by clicking on the following link:
 
-   (https://med-chatbot.streamlit.app/)
+   (https://plantdisease-classification.streamlit.app/)
 
 
 ## Data and Model
