@@ -1,3 +1,4 @@
+streamlit==1.27.2
 tensorflow
 numpy
 opencv-python-headless
